@@ -31,14 +31,18 @@ class Rzkfyn {
 <div align="center">
 
 #### My Github Stats
-
+   
+<a href="https://github.com/rzkfyn">
+   
 ![my github stats](https://github-readme-stats.vercel.app/api?username=rzkfyn&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=rzkfyn's%20Github%20Stats)
-
+   
+</a>
+   
 <br>
 
 [Website](https://www.rzkfyn.my.id) | 
-[Facebook](facebook.com/rzkfyn) | 
-[Instagram](instagram.com/rzkfyn) | 
-[Twitter](twitter.com/rzkfyn)
+[Facebook](https://www.facebook.com/rzkfyn) | 
+[Instagram](https://www.instagram.com/rzkfyn) | 
+[Twitter](https://www.twitter.com/rzkfyn)
 
 </div>
