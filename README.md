@@ -21,7 +21,7 @@ class Rzkfyn {
       this.name = 'Rizki Sofyan';
       this.age = undefined;
       this.pronouns = 'he/him';
-      this.occupation = 'unemployed' || 'student';
+      this.occupation = 'raja iblis';
    }
 }
 ```
